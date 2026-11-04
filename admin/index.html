@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel Sant'Arte</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/admin/styles.css?v=20261101e">
+</head>
+<body>
+  <div class="login-wrap" id="loginScreen">
+    <div class="login-card">
+      <img src="/assets/logo.svg" alt="Sant'Arte">
+      <h1>Painel de páginas</h1>
+      <p>Gerencie várias páginas de vendas no mesmo painel.</p>
+      <form id="loginForm">
+        <div>
+          <label for="username">Usuário</label>
+          <input id="username" name="username" autocomplete="username" required>
+        </div>
+        <div>
+          <label for="password">Senha</label>
+          <input id="password" name="password" type="password" autocomplete="current-password" required>
+        </div>
+        <div class="error" id="loginError"></div>
+        <button class="btn" type="submit">Entrar</button>
+        <p class="hint">Padrão: admin / SantArte#2026 — troque a senha no primeiro acesso.</p>
+      </form>
+    </div>
+  </div>
+
+  <div class="pages-shell" id="pagesView">
+    <div class="pages-top">
+      <div>
+        <img src="/assets/logo.svg" alt="Sant'Arte">
+        <h1>Páginas de venda</h1>
+        <p>Cada página tem conteúdo, checkout e rastreamento próprios.</p>
+      </div>
+      <div class="pages-actions">
+        <button class="btn" id="newPageBtn" type="button">Nova página</button>
+        <button class="btn btn-ghost" id="logoutHomeBtn" type="button">Sair</button>
+      </div>
+    </div>
+    <div class="pages-grid" id="pagesList"></div>
+  </div>
+
+  <div class="app" id="app">
+    <aside class="side">
+      <img src="/assets/logo.svg" alt="Sant'Arte">
+      <button class="link back-pages" id="backPagesBtn" type="button">Todas as páginas</button>
+      <nav>
+        <a href="#settings" data-panel="settings">Página e rastreamento</a>
+        <a href="#sections" data-panel="sections">Seções</a>
+        <a href="#media" data-panel="media">Imagens</a>
+        <a href="#account" data-panel="account">Conta</a>
+        <button class="link" id="logoutBtn" type="button">Sair</button>
+      </nav>
+    </aside>
+    <main class="main">
+      <div class="topbar">
+        <div>
+          <p class="crumb" id="pageCrumb"></p>
+          <h2 id="panelTitle">Seções</h2>
+        </div>
+        <div class="topbar-actions">
+          <a class="btn btn-ghost" id="viewPageBtn" href="/" target="_blank" rel="noopener">Ver página</a>
+          <button class="btn btn-sage" id="saveBtn" type="button">Salvar alterações</button>
+        </div>
+      </div>
+      <div id="panels"></div>
+    </main>
+  </div>
+
+  <div class="modal" id="newPageModal">
+    <div class="modal-card">
+      <h2>Nova página</h2>
+      <p>A estrutura visual é a mesma. Os textos, checkout e rastreamento ficam independentes.</p>
+      <form id="newPageForm">
+        <div class="field">
+          <label for="newName">Nome interno</label>
+          <input id="newName" required placeholder="Ex: Só um bolinho">
+        </div>
+        <div class="field">
+          <label for="newSlug">Endereço (slug)</label>
+          <input id="newSlug" placeholder="so-um-bolinho">
+          <small>Ficará em santarte.com.br/<span id="slugPreview">nova-pagina</span></small>
+        </div>
+        <div class="error" id="newPageError"></div>
+        <div class="modal-actions">
+          <button class="btn btn-ghost" type="button" id="cancelNewPage">Cancelar</button>
+          <button class="btn" type="submit">Criar rascunho</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="modal" id="addSectionModal">
+    <div class="modal-card">
+      <h2>Adicionar seção</h2>
+      <p>A seção entra no final. Depois você pode reordenar, ocultar ou duplicar.</p>
+      <div class="field">
+        <label for="newSectionType">Tipo</label>
+        <select id="newSectionType"></select>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" type="button" id="cancelAddSection">Cancelar</button>
+        <button class="btn" type="button" id="confirmAddSection">Adicionar</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+  <script src="/admin/admin.js?v=20261101e"></script>
+</body>
+</html>

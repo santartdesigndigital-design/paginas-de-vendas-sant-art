@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" fill="none" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Sant'Arte</title>
+  <g fill="#7D8F6E">
+    <path d="M260 18c-2.2 8-6 14-12 18 6 1.5 10 6 12 14 2-8 6-12.5 12-14-6-4-9.8-10-12-18z"/>
+    <path d="M232 42c8 3 14 2 20-2-2 8 0 14 4 20-8-2-14 0-20 4 2-8 0-14.5-4-22z" opacity=".85"/>
+    <path d="M288 42c-8 3-14 2-20-2 2 8 0 14-4 20 8-2 14 0 20 4-2-8 0-14.5 4-22z" opacity=".85"/>
+  </g>
+  <g fill="#C4A06A">
+    <circle cx="248" cy="36" r="2.2"/>
+    <circle cx="272" cy="36" r="2.2"/>
+    <circle cx="260" cy="28" r="1.6"/>
+  </g>
+  <text x="260" y="108" text-anchor="middle" fill="#3A322C" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" letter-spacing="4">SANT'ARTE</text>
+  <path d="M150 128c36 12 74 18 110 18s74-6 110-18" stroke="#C4A06A" stroke-width="1.4" fill="none"/>
+  <path d="M200 142c20 6 40 9 60 9s40-3 60-9" stroke="#7D8F6E" stroke-width="1" fill="none" opacity=".7"/>
+  <g fill="#B07A72" opacity=".9">
+    <circle cx="260" cy="128" r="2.4"/>
+  </g>
+  <g fill="#7D8F6E">
+    <path d="M178 136c6-8 14-10 22-8-6 6-8 12-6 20-8-2-14-4-16-12z" opacity=".75"/>
+    <path d="M342 136c-6-8-14-10-22-8 6 6 8 12 6 20 8-2 14-4 16-12z" opacity=".75"/>
+  </g>
+</svg>

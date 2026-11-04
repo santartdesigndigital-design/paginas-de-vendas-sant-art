@@ -1,0 +1,1167 @@
+{
+  "id": "4ff19640-a8f3-4cb0-a7c3-9230d4127465",
+  "slug": "confeitaria-criativa",
+  "name": "Sant'Art",
+  "status": "draft",
+  "createdAt": "2026-10-31T23:00:53+00:00",
+  "updatedAt": "2026-11-02T16:56:15+00:00",
+  "settings": {
+    "productName": "Sant'Art - Confeitaria Criativa ",
+    "checkoutUrl": "",
+    "metaPixelId": "",
+    "googleAnalyticsId": "",
+    "googleTagManagerId": "",
+    "conversionEvent": "Purchase"
+  },
+  "content": {
+    "hero": {
+      "eyebrow": "Sant'Arte",
+      "title": "SANT'ARTE",
+      "tagline": "O encanto de imaginar. A facilidade de criar.",
+      "line1": "Da ideia ao projeto com apenas alguns cliques.",
+      "lede": "Desenvolva papelaria criativa completas com comandos prontos para usar na sua IA, orientação criativa e ferramentas que facilitam seu processo de criação.",
+      "line2": "Escolha o comando. Copie. Cole na sua IA. Comece a criar."
+    },
+    "commands": {
+      "eyebrow": "Comandos",
+      "p1": "Você conhece a situação: a cliente escolhe um personagem, você abre sua IA, faz o pedido e recebe uma mensagem de restrição por direitos autorais.",
+      "p2": "É frustrante quando você já tem a encomenda e encontra essa barreira no meio da produção.",
+      "p3": "O Sant'Arte traz um comando específico para esse tipo de situação.",
+      "p4": "Com ele, você consegue trabalhar a criação da imagem solicitada pela cliente, inclusive em pedidos que normalmente encontram restrições nas ferramentas de IA.",
+      "p5": "Mais recursos para lidar com esses pedidos e dar continuidade à sua produção.",
+      "stamp": "comando específico",
+      "title": "Sua cliente pediu um personagem famoso e a IA recusou?"
+    },
+    "polaroids": [
+      {
+        "key": "crest",
+        "label": "brasão"
+      },
+      {
+        "key": "monogram",
+        "label": "monograma"
+      },
+      {
+        "key": "party",
+        "label": "festa"
+      },
+      {
+        "key": "palette",
+        "label": "paleta"
+      },
+      {
+        "key": "stationery",
+        "label": "papelaria"
+      }
+    ],
+    "audience": {
+      "eyebrow": "Público",
+      "items": [
+        {
+          "text": "Para quem deseja oferecer projetos visuais mais completos.",
+          "title": "Papelarias personalizadas"
+        },
+        {
+          "text": "Para quem quer organizar e agilizar etapas da criação.",
+          "title": "Designers"
+        },
+        {
+          "text": "Para quem deseja ampliar as possibilidades de personalização.",
+          "title": "Confeiteiras e profissionais de festas"
+        },
+        {
+          "text": "Para quem precisa de uma direção para desenvolver seus primeiros projetos.",
+          "title": "Quem está começando"
+        }
+      ],
+      "title": "Para quem é o Sant'Arte?"
+    },
+    "final": {
+      "brand": "SANT'ARTE",
+      "eyebrow": "Comece agora",
+      "lede": "Comandos prontos, ideias e ferramentas para desenvolver cartelas de identidade visual com mais rapidez, direção e praticidade.",
+      "tagline": "O encanto de imaginar. A facilidade de criar.",
+      "title": "Sua próxima criação começa aqui.",
+      "cta": "Quero criar com o Sant'Arte"
+    },
+    "meta": {
+      "title": "Sant'Arte — O encanto de imaginar. A facilidade de criar.",
+      "description": "Desenvolva Confeitaria Criativa completas com comandos prontos para usar na sua IA, orientação criativa e ferramentas que facilitam seu processo de criação."
+    },
+    "receive": {
+      "eyebrow": "Entrega",
+      "items": [
+        {
+          "num": "01",
+          "text": "Seu espaço de acesso ao projeto, com apresentação, organização e links para ferramentas.",
+          "title": "Planejador Sant'Arte no Notion"
+        },
+        {
+          "num": "02",
+          "text": "Um parceiro para desenvolver conceitos, explorar temas e encontrar elementos para suas identidades.",
+          "title": "Consultor Criativo"
+        },
+        {
+          "num": "03",
+          "text": "Comandos para criar brasões, logotipos, monogramas, paletas, tipografias, padrões e elementos gráficos.",
+          "title": "Biblioteca de comandos"
+        },
+        {
+          "num": "04",
+          "text": "Recursos para trabalhar diferentes solicitações visuais, inclusive imagens que encontram restrições em ferramentas de IA.",
+          "title": "Comandos para criação de imagens"
+        },
+        {
+          "num": "05",
+          "text": "Informações para compreender o uso comercial das imagens e os cuidados necessários em seus projetos.",
+          "title": "Orientação sobre licenças"
+        }
+      ],
+      "title": "O que você recebe ao adquirir o Sant'Arte?"
+    },
+    "offer": {
+      "price": "67,00",
+      "checkoutUrl": "",
+      "ctaCreate": "Quero criar com o Sant'Arte",
+      "ctaAcquire": "Quero adquirir o Sant'Arte",
+      "ctaCartelas": "Ver as cartelas",
+      "ctaHow": "Ver como funciona"
+    },
+    "possibilities": {
+      "closing": "Utilizar os recursos nos seus próprios projetos ou no atendimento a clientes.",
+      "eyebrow": "Possibilidades",
+      "items": [
+        {
+          "key": "party",
+          "text": "Desenvolver identidades visuais para festas e eventos."
+        },
+        {
+          "key": "board",
+          "text": "Criar cartelas de identidade visual completas."
+        },
+        {
+          "key": "characters",
+          "text": "Produzir elementos gráficos personalizados."
+        },
+        {
+          "key": "stationery",
+          "text": "Aplicar as identidades em convites, caixas, lembrancinhas, embalagens e papelaria."
+        },
+        {
+          "key": "cookies",
+          "text": "Ampliar seu catálogo de serviços."
+        }
+      ],
+      "lede": "Uma identidade visual pode ser o começo de muitos outros produtos e serviços.",
+      "title": "O que você poderá fazer com essa estrutura?"
+    },
+    "images": {
+      "banner": "assets/img/banner.jpg",
+      "board": "assets/img/board.jpg",
+      "characters": "assets/img/characters.jpg",
+      "cookies": "assets/img/cookies.jpg",
+      "crest": "assets/img/crest.jpg",
+      "logo": "assets/img/uploads/4ff19640-a8f3-4cb0-a7c3-9230d4127465/logo.png?v=0c87082f",
+      "monogram": "assets/img/monogram.jpg",
+      "palette": "assets/img/palette.jpg",
+      "party": "assets/img/party.jpg",
+      "patterns": "assets/img/patterns.jpg",
+      "stationery": "assets/img/stationery.jpg"
+    },
+    "consultor": {
+      "chatAsk": "Minha cliente pediu uma identidade visual com tema futebol. Quais elementos combinam?",
+      "chatIntro": "Você pode perguntar quais elementos combinam com esse tema e receber sugestões como:",
+      "chatLabel": "Consultor Criativo",
+      "eyebrow": "Parceiro criativo",
+      "p1": "Sabe quando a cliente escolhe um tema, mas você ainda não sabe quais elementos poderiam compor aquela identidade?",
+      "p2": "O Consultor Criativo funciona como um parceiro para desenvolver conceitos e explorar ideias para seus projetos.",
+      "p3": "Imagine que sua cliente pediu uma identidade visual com tema futebol.",
+      "p4": "Você pode perguntar quais elementos combinam com esse tema e receber sugestões como:",
+      "p5": "Você ganha um ponto de partida para construir seu conceito visual, sem depender apenas da própria inspiração.",
+      "suggestions": [
+        "Campo, gol e bola.",
+        "Troféus e medalhas.",
+        "Uniformes e símbolos esportivos.",
+        "Elementos decorativos e complementares."
+      ],
+      "title": "Não precisa pensar em tudo sozinha: conheça o Consultor Criativo."
+    },
+    "footer": {
+      "tagline": "O encanto de imaginar. A facilidade de criar.",
+      "copy": "Sant'Arte. Todos os direitos reservados."
+    },
+    "compare": {
+      "bad": [
+        "Criar comandos do zero.",
+        "Perder tempo testando instruções.",
+        "Criar elementos isolados.",
+        "Ficar sem ideias para um tema.",
+        "Ter dificuldade com algumas imagens.",
+        "Oferecer poucas possibilidades."
+      ],
+      "badTitle": "Sem uma estrutura",
+      "eyebrow": "Comparativo",
+      "good": [
+        "Comandos prontos para copiar e colar.",
+        "Orientação para conduzir a IA.",
+        "Desenvolver uma cartela completa.",
+        "Consultar o Consultor Criativo.",
+        "Contar com comandos específicos para essas situações.",
+        "Explorar novos projetos e serviços."
+      ],
+      "goodTitle": "Com o Sant'Arte",
+      "title": "O que muda na sua rotina de criação?",
+      "cta": "Quero adquirir o Sant'Arte"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "items": [
+        {
+          "a": "Não. O Sant'Arte também pode ser utilizado por quem está começando e deseja desenvolver suas habilidades de criação.",
+          "q": "Preciso ser designer profissional?"
+        },
+        {
+          "a": "Você precisará utilizar uma ferramenta de IA compatível para executar os comandos. O Sant'Arte oferece a estrutura para orientar esse processo.",
+          "q": "Preciso saber usar inteligência artificial?"
+        },
+        {
+          "a": "Não. Os comandos orientam a geração das imagens, mas você participa da escolha das referências, da direção visual e dos ajustes.",
+          "q": "O Sant'Arte cria tudo sozinho?"
+        },
+        {
+          "a": "Sim. Você pode utilizar os recursos como apoio na criação dos seus projetos e serviços.",
+          "q": "Posso usar os comandos para atender clientes?"
+        },
+        {
+          "a": "Sim. A identidade pode ser aplicada em convites, papelaria, embalagens, personalizados e diversos outros produtos.",
+          "q": "Posso criar outros produtos depois da identidade visual?"
+        }
+      ],
+      "title": "Dúvidas frequentes"
+    },
+    "how": {
+      "eyebrow": "Processo",
+      "p1": "Imagine receber uma encomenda e já ter à disposição os comandos para desenvolver cada parte da identidade visual.",
+      "p2": "Com o Sant'Arte, você não precisa escrever todos os prompts sozinha, testar inúmeras instruções ou tentar descobrir como pedir cada elemento.",
+      "steps": [
+        {
+          "mockText": "Brasão · Paleta · Estampa",
+          "mockTitle": "Biblioteca",
+          "num": "01",
+          "text": "Encontre o comando para sua criação.",
+          "title": "Escolha"
+        },
+        {
+          "mockText": "criar paleta aquarela...",
+          "mockTitle": "Copiar comando",
+          "num": "02",
+          "text": "Insira o comando na sua IA.",
+          "title": "Copie e cole"
+        },
+        {
+          "mockText": "Identidade pronta para aplicar",
+          "mockTitle": "Resultado",
+          "num": "03",
+          "text": "Gere e ajuste seu projeto.",
+          "title": "Crie"
+        }
+      ],
+      "tagline": "Sua ideia. Seu comando. Seu projeto.",
+      "title": "Como funciona"
+    },
+    "identity": {
+      "closing": "Você deixa de pensar em elementos isolados e começa a desenvolver uma composição visual coordenada, com mais possibilidades de aplicação.",
+      "eyebrow": "Cartela completa",
+      "gallery": [
+        {
+          "key": "crest",
+          "text": "Identidade principal e versões secundárias.",
+          "title": "Brasões e logotipos"
+        },
+        {
+          "key": "monogram",
+          "text": "Composições personalizadas com iniciais.",
+          "title": "Monogramas"
+        },
+        {
+          "key": "palette",
+          "text": "Combinações de cores e fontes.",
+          "title": "Paletas e tipografias"
+        },
+        {
+          "key": "patterns",
+          "text": "Fundos e composições decorativas.",
+          "title": "Padrões e estampas"
+        },
+        {
+          "key": "characters",
+          "text": "Detalhes gráficos para compor cada tema.",
+          "title": "Elementos e ilustrações"
+        },
+        {
+          "key": "stationery",
+          "text": "Elementos que podem ser utilizados em diferentes peças.",
+          "title": "Aplicações visuais"
+        }
+      ],
+      "lede": "Com o Sant'Arte, você aprende a desenvolver uma cartela de identidade visual reunindo os elementos que dão personalidade e unidade ao projeto.",
+      "pills": [
+        "Logo",
+        "Brand Board",
+        "Social Media Kit"
+      ],
+      "title": "Uma identidade visual completa, não apenas um logotipo.",
+      "cta": "Quero criar com o Sant'Arte"
+    },
+    "pains": {
+      "eyebrow": "Identificação",
+      "items": [
+        {
+          "num": "01",
+          "text": "A cliente apresenta um tema e você não sabe quais elementos usar.",
+          "title": "Falta de ideias"
+        },
+        {
+          "num": "02",
+          "text": "Você pesquisa, testa comandos e tenta encontrar o resultado ideal.",
+          "title": "Muito tempo de produção"
+        },
+        {
+          "num": "03",
+          "text": "Você sabe o que quer, mas não consegue transmitir isso para a IA.",
+          "title": "Imagens que não saem como esperado"
+        },
+        {
+          "num": "04",
+          "text": "Você gostaria de entregar projetos mais completos, mas não sabe como estruturar essa criação.",
+          "title": "Dificuldade para ampliar os serviços"
+        }
+      ],
+      "note": "O problema nem sempre é falta de criatividade. Muitas vezes, é não ter o comando certo, uma direção criativa ou um processo organizado.",
+      "title": "Você trabalha com criação, mas nem sempre criar é fácil."
+    },
+    "offerBlock": {
+      "eyebrow": "Oferta",
+      "title": "Comece a criar com o Sant'Arte",
+      "brand": "SANT'ARTE",
+      "tagline": "O encanto de imaginar. A facilidade de criar.",
+      "includesLabel": "Sua aquisição inclui:",
+      "includes": [
+        "Planejador Sant'Arte no Notion.",
+        "Consultor Criativo.",
+        "Biblioteca de comandos para identidades visuais.",
+        "Comandos para criação de imagens.",
+        "Orientação sobre licenças e uso comercial."
+      ],
+      "priceLabel": "Seu investimento"
+    },
+    "about": {
+      "eyebrow": "Conheça",
+      "p1": "O Sant'Arte é uma estrutura de criação que reúne comandos, ferramentas e orientação criativa para ajudar você a desenvolver identidades visuais completas com o apoio da inteligência artificial.",
+      "p2": "Em vez de começar cada projeto do zero, você encontra comandos estruturados para orientar sua IA em cada etapa.",
+      "p3": "Você escolhe o comando, copia, cola na sua IA e começa a desenvolver seu projeto.",
+      "p4": "Mais praticidade para criar. Menos tempo tentando descobrir como fazer.",
+      "title": "Conheça o Sant'Arte",
+      "cta": "Ver como funciona"
+    }
+  },
+  "template": "santarte-sales",
+  "layout": {
+    "footer": {
+      "tagline": "O encanto de imaginar. A facilidade de criar.",
+      "copy": "Sant'Arte. Todos os direitos reservados."
+    },
+    "logo": "assets/img/uploads/4ff19640-a8f3-4cb0-a7c3-9230d4127465/logo.png?v=0c87082f",
+    "media": [
+      {
+        "id": "9a0bc073-7",
+        "name": "banner.jpg",
+        "src": "assets/img/banner.jpg"
+      },
+      {
+        "id": "2147df21-6",
+        "name": "board.jpg",
+        "src": "assets/img/board.jpg"
+      },
+      {
+        "id": "3862f3ad-9",
+        "name": "characters.jpg",
+        "src": "assets/img/characters.jpg"
+      },
+      {
+        "id": "d201264f-0",
+        "name": "cookies.jpg",
+        "src": "assets/img/cookies.jpg"
+      },
+      {
+        "id": "362a3b55-c",
+        "name": "crest.jpg",
+        "src": "assets/img/crest.jpg"
+      },
+      {
+        "id": "e9404803-a",
+        "name": "logo.png",
+        "src": "assets/img/uploads/4ff19640-a8f3-4cb0-a7c3-9230d4127465/logo.png?v=0c87082f"
+      },
+      {
+        "id": "0e68f93c-0",
+        "name": "monogram.jpg",
+        "src": "assets/img/monogram.jpg"
+      },
+      {
+        "id": "cf34f4a7-3",
+        "name": "palette.jpg",
+        "src": "assets/img/palette.jpg"
+      },
+      {
+        "id": "7a3824a0-7",
+        "name": "party.jpg",
+        "src": "assets/img/party.jpg"
+      },
+      {
+        "id": "f8b5b00b-7",
+        "name": "patterns.jpg",
+        "src": "assets/img/patterns.jpg"
+      },
+      {
+        "id": "f6780686-0",
+        "name": "stationery.jpg",
+        "src": "assets/img/stationery.jpg"
+      }
+    ],
+    "meta": {
+      "title": "Sant'Arte — O encanto de imaginar. A facilidade de criar.",
+      "description": "Desenvolva Confeitaria Criativa completas com comandos prontos para usar na sua IA, orientação criativa e ferramentas que facilitam seu processo de criação."
+    },
+    "sections": [
+      {
+        "anchor": "apresentacao",
+        "fields": {
+          "ctaPrimary": "Quero criar com o Sant'Arte",
+          "ctaSecondary": "Ver as cartelas",
+          "eyebrow": "Sant'Arte",
+          "lede": "Desenvolva papelaria criativa completas com comandos prontos para usar na sua IA, orientação criativa e ferramentas que facilitam seu processo de criação.",
+          "line1": "Da ideia ao projeto com apenas alguns cliques.",
+          "line2": "Escolha o comando. Copie. Cole na sua IA. Comece a criar.",
+          "tagline": "O encanto de imaginar. A facilidade de criar.",
+          "title": "SANT'ARTE"
+        },
+        "id": "sec_hero_36d79e",
+        "images": [
+          {
+            "alt": "brasão",
+            "caption": "brasão",
+            "id": "15ed2080",
+            "src": "assets/img/crest.jpg"
+          },
+          {
+            "alt": "monograma",
+            "caption": "monograma",
+            "id": "3af5037c",
+            "src": "assets/img/monogram.jpg"
+          },
+          {
+            "alt": "festa",
+            "caption": "festa",
+            "id": "f1e8c643",
+            "src": "assets/img/party.jpg"
+          },
+          {
+            "alt": "paleta",
+            "caption": "paleta",
+            "id": "e361982e",
+            "src": "assets/img/palette.jpg"
+          },
+          {
+            "alt": "papelaria",
+            "caption": "papelaria",
+            "id": "18fb796d",
+            "src": "assets/img/stationery.jpg"
+          }
+        ],
+        "nav": "Início",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Apresentação",
+        "type": "hero",
+        "visible": true
+      },
+      {
+        "anchor": "identificacao",
+        "fields": {
+          "eyebrow": "Identificação",
+          "items": [
+            {
+              "num": "01",
+              "text": "A cliente apresenta um tema e você não sabe quais elementos usar.",
+              "title": "Falta de ideias"
+            },
+            {
+              "num": "02",
+              "text": "Você pesquisa, testa comandos e tenta encontrar o resultado ideal.",
+              "title": "Muito tempo de produção"
+            },
+            {
+              "num": "03",
+              "text": "Você sabe o que quer, mas não consegue transmitir isso para a IA.",
+              "title": "Imagens que não saem como esperado"
+            },
+            {
+              "num": "04",
+              "text": "Você gostaria de entregar projetos mais completos, mas não sabe como estruturar essa criação.",
+              "title": "Dificuldade para ampliar os serviços"
+            }
+          ],
+          "note": "O problema nem sempre é falta de criatividade. Muitas vezes, é não ter o comando certo, uma direção criativa ou um processo organizado.",
+          "title": "Você trabalha com criação, mas nem sempre criar é fácil."
+        },
+        "id": "sec_pains_e7dbdb",
+        "images": [],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Identificação",
+        "type": "pains",
+        "visible": true
+      },
+      {
+        "anchor": "conheca",
+        "fields": {
+          "cta": "Ver como funciona",
+          "eyebrow": "Conheça",
+          "p1": "O Sant'Arte é uma estrutura de criação que reúne comandos, ferramentas e orientação criativa para ajudar você a desenvolver identidades visuais completas com o apoio da inteligência artificial.",
+          "p2": "Em vez de começar cada projeto do zero, você encontra comandos estruturados para orientar sua IA em cada etapa.",
+          "p3": "Você escolhe o comando, copia, cola na sua IA e começa a desenvolver seu projeto.",
+          "p4": "Mais praticidade para criar. Menos tempo tentando descobrir como fazer.",
+          "title": "Conheça o Sant'Arte"
+        },
+        "id": "sec_about_47cf24",
+        "images": [
+          {
+            "alt": "Imagem 1",
+            "caption": "",
+            "id": "638bb68e",
+            "src": "assets/img/crest.jpg"
+          },
+          {
+            "alt": "Imagem 2",
+            "caption": "",
+            "id": "cb4d5818",
+            "src": "assets/img/banner.jpg"
+          },
+          {
+            "alt": "Imagem 3",
+            "caption": "",
+            "id": "924c2164",
+            "src": "assets/img/cookies.jpg"
+          }
+        ],
+        "nav": "O produto",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Conheça",
+        "type": "about",
+        "visible": true
+      },
+      {
+        "anchor": "como-funciona",
+        "fields": {
+          "eyebrow": "Processo",
+          "p1": "Imagine receber uma encomenda e já ter à disposição os comandos para desenvolver cada parte da identidade visual.",
+          "p2": "Com o Sant'Arte, você não precisa escrever todos os prompts sozinha, testar inúmeras instruções ou tentar descobrir como pedir cada elemento.",
+          "steps": [
+            {
+              "mockText": "Brasão · Paleta · Estampa",
+              "mockTitle": "Biblioteca",
+              "num": "01",
+              "text": "Encontre o comando para sua criação.",
+              "title": "Escolha"
+            },
+            {
+              "mockText": "criar paleta aquarela...",
+              "mockTitle": "Copiar comando",
+              "num": "02",
+              "text": "Insira o comando na sua IA.",
+              "title": "Copie e cole"
+            },
+            {
+              "mockText": "Identidade pronta para aplicar",
+              "mockTitle": "Resultado",
+              "num": "03",
+              "text": "Gere e ajuste seu projeto.",
+              "title": "Crie"
+            }
+          ],
+          "tagline": "Sua ideia. Seu comando. Seu projeto.",
+          "title": "Como funciona"
+        },
+        "id": "sec_how_c77bcd",
+        "images": [
+          {
+            "alt": "Escolha",
+            "caption": "Encontre o comando para sua criação.",
+            "id": "8e9f98a0",
+            "src": "assets/img/board.jpg"
+          },
+          {
+            "alt": "Copie e cole",
+            "caption": "Insira o comando na sua IA.",
+            "id": "00879bb3",
+            "src": "assets/img/palette.jpg"
+          },
+          {
+            "alt": "Crie",
+            "caption": "Gere e ajuste seu projeto.",
+            "id": "bf4d2bb6",
+            "src": "assets/img/party.jpg"
+          }
+        ],
+        "nav": "Como funciona",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Como funciona",
+        "type": "how",
+        "visible": true
+      },
+      {
+        "anchor": "identidade",
+        "fields": {
+          "closing": "Você deixa de pensar em elementos isolados e começa a desenvolver uma composição visual coordenada, com mais possibilidades de aplicação.",
+          "cta": "Quero criar com o Sant'Arte",
+          "eyebrow": "Cartela completa",
+          "gallery": [
+            {
+              "key": "crest",
+              "text": "Identidade principal e versões secundárias.",
+              "title": "Brasões e logotipos"
+            },
+            {
+              "key": "monogram",
+              "text": "Composições personalizadas com iniciais.",
+              "title": "Monogramas"
+            },
+            {
+              "key": "palette",
+              "text": "Combinações de cores e fontes.",
+              "title": "Paletas e tipografias"
+            },
+            {
+              "key": "patterns",
+              "text": "Fundos e composições decorativas.",
+              "title": "Padrões e estampas"
+            },
+            {
+              "key": "characters",
+              "text": "Detalhes gráficos para compor cada tema.",
+              "title": "Elementos e ilustrações"
+            },
+            {
+              "key": "stationery",
+              "text": "Elementos que podem ser utilizados em diferentes peças.",
+              "title": "Aplicações visuais"
+            }
+          ],
+          "lede": "Com o Sant'Arte, você aprende a desenvolver uma cartela de identidade visual reunindo os elementos que dão personalidade e unidade ao projeto.",
+          "pills": [
+            "Logo",
+            "Brand Board",
+            "Social Media Kit"
+          ],
+          "title": "Uma identidade visual completa, não apenas um logotipo."
+        },
+        "id": "sec_identity_48b6d2",
+        "images": [
+          {
+            "alt": "Brasões e logotipos",
+            "caption": "Identidade principal e versões secundárias.",
+            "id": "237b1d2d",
+            "src": "assets/img/crest.jpg"
+          },
+          {
+            "alt": "Monogramas",
+            "caption": "Composições personalizadas com iniciais.",
+            "id": "b57bc512",
+            "src": "assets/img/monogram.jpg"
+          },
+          {
+            "alt": "Paletas e tipografias",
+            "caption": "Combinações de cores e fontes.",
+            "id": "cc3e8088",
+            "src": "assets/img/palette.jpg"
+          },
+          {
+            "alt": "Padrões e estampas",
+            "caption": "Fundos e composições decorativas.",
+            "id": "d0ff58b6",
+            "src": "assets/img/patterns.jpg"
+          },
+          {
+            "alt": "Elementos e ilustrações",
+            "caption": "Detalhes gráficos para compor cada tema.",
+            "id": "70f3cbb6",
+            "src": "assets/img/characters.jpg"
+          },
+          {
+            "alt": "Aplicações visuais",
+            "caption": "Elementos que podem ser utilizados em diferentes peças.",
+            "id": "8e10511a",
+            "src": "assets/img/stationery.jpg"
+          }
+        ],
+        "nav": "Galeria",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Galeria",
+        "type": "identity",
+        "visible": true
+      },
+      {
+        "anchor": "imagens",
+        "fields": {
+          "eyebrow": "Comandos",
+          "p1": "Você conhece a situação: a cliente escolhe um personagem, você abre sua IA, faz o pedido e recebe uma mensagem de restrição por direitos autorais.",
+          "p2": "É frustrante quando você já tem a encomenda e encontra essa barreira no meio da produção.",
+          "p3": "O Sant'Arte traz um comando específico para esse tipo de situação.",
+          "p4": "Com ele, você consegue trabalhar a criação da imagem solicitada pela cliente, inclusive em pedidos que normalmente encontram restrições nas ferramentas de IA.",
+          "p5": "Mais recursos para lidar com esses pedidos e dar continuidade à sua produção.",
+          "stamp": "comando específico",
+          "title": "Sua cliente pediu um personagem famoso e a IA recusou?"
+        },
+        "id": "sec_commands_d0aeaa",
+        "images": [
+          {
+            "alt": "comando específico",
+            "caption": "",
+            "id": "b0dd788b",
+            "src": "assets/img/characters.jpg"
+          }
+        ],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Demonstração",
+        "type": "commands",
+        "visible": true
+      },
+      {
+        "anchor": "consultor",
+        "fields": {
+          "chatAsk": "Minha cliente pediu uma identidade visual com tema futebol. Quais elementos combinam?",
+          "chatIntro": "Você pode perguntar quais elementos combinam com esse tema e receber sugestões como:",
+          "chatLabel": "Consultor Criativo",
+          "eyebrow": "Parceiro criativo",
+          "p1": "Sabe quando a cliente escolhe um tema, mas você ainda não sabe quais elementos poderiam compor aquela identidade?",
+          "p2": "O Consultor Criativo funciona como um parceiro para desenvolver conceitos e explorar ideias para seus projetos.",
+          "p3": "Imagine que sua cliente pediu uma identidade visual com tema futebol.",
+          "p4": "Você pode perguntar quais elementos combinam com esse tema e receber sugestões como:",
+          "p5": "Você ganha um ponto de partida para construir seu conceito visual, sem depender apenas da própria inspiração.",
+          "suggestions": [
+            "Campo, gol e bola.",
+            "Troféus e medalhas.",
+            "Uniformes e símbolos esportivos.",
+            "Elementos decorativos e complementares."
+          ],
+          "title": "Não precisa pensar em tudo sozinha: conheça o Consultor Criativo."
+        },
+        "id": "sec_consultor_a970a1",
+        "images": [],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Demonstração extra",
+        "type": "consultor",
+        "visible": true
+      },
+      {
+        "anchor": "recebe",
+        "fields": {
+          "eyebrow": "Entrega",
+          "items": [
+            {
+              "num": "01",
+              "text": "Seu espaço de acesso ao projeto, com apresentação, organização e links para ferramentas.",
+              "title": "Planejador Sant'Arte no Notion"
+            },
+            {
+              "num": "02",
+              "text": "Um parceiro para desenvolver conceitos, explorar temas e encontrar elementos para suas identidades.",
+              "title": "Consultor Criativo"
+            },
+            {
+              "num": "03",
+              "text": "Comandos para criar brasões, logotipos, monogramas, paletas, tipografias, padrões e elementos gráficos.",
+              "title": "Biblioteca de comandos"
+            },
+            {
+              "num": "04",
+              "text": "Recursos para trabalhar diferentes solicitações visuais, inclusive imagens que encontram restrições em ferramentas de IA.",
+              "title": "Comandos para criação de imagens"
+            },
+            {
+              "num": "05",
+              "text": "Informações para compreender o uso comercial das imagens e os cuidados necessários em seus projetos.",
+              "title": "Orientação sobre licenças"
+            }
+          ],
+          "title": "O que você recebe ao adquirir o Sant'Arte?"
+        },
+        "id": "sec_receive_5c91ac",
+        "images": [],
+        "nav": "O que você recebe",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Benefícios",
+        "type": "receive",
+        "visible": true
+      },
+      {
+        "anchor": "possibilidades",
+        "fields": {
+          "closing": "Utilizar os recursos nos seus próprios projetos ou no atendimento a clientes.",
+          "eyebrow": "Possibilidades",
+          "items": [
+            {
+              "key": "party",
+              "text": "Desenvolver identidades visuais para festas e eventos."
+            },
+            {
+              "key": "board",
+              "text": "Criar cartelas de identidade visual completas."
+            },
+            {
+              "key": "characters",
+              "text": "Produzir elementos gráficos personalizados."
+            },
+            {
+              "key": "stationery",
+              "text": "Aplicar as identidades em convites, caixas, lembrancinhas, embalagens e papelaria."
+            },
+            {
+              "key": "cookies",
+              "text": "Ampliar seu catálogo de serviços."
+            }
+          ],
+          "lede": "Uma identidade visual pode ser o começo de muitos outros produtos e serviços.",
+          "title": "O que você poderá fazer com essa estrutura?"
+        },
+        "id": "sec_possibilities_1d26d7",
+        "images": [
+          {
+            "alt": "Desenvolver identidades visuais para festas e eventos.",
+            "caption": "Desenvolver identidades visuais para festas e eventos.",
+            "id": "521f2b47",
+            "src": "assets/img/party.jpg"
+          },
+          {
+            "alt": "Criar cartelas de identidade visual completas.",
+            "caption": "Criar cartelas de identidade visual completas.",
+            "id": "e172143e",
+            "src": "assets/img/board.jpg"
+          },
+          {
+            "alt": "Produzir elementos gráficos personalizados.",
+            "caption": "Produzir elementos gráficos personalizados.",
+            "id": "4d7b85d9",
+            "src": "assets/img/characters.jpg"
+          },
+          {
+            "alt": "Aplicar as identidades em convites, caixas, lembrancinhas, embalagens e papelaria.",
+            "caption": "Aplicar as identidades em convites, caixas, lembrancinhas, embalagens e papelaria.",
+            "id": "53e94acc",
+            "src": "assets/img/stationery.jpg"
+          },
+          {
+            "alt": "Ampliar seu catálogo de serviços.",
+            "caption": "Ampliar seu catálogo de serviços.",
+            "id": "e5565492",
+            "src": "assets/img/cookies.jpg"
+          }
+        ],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Possibilidades",
+        "type": "possibilities",
+        "visible": true
+      },
+      {
+        "anchor": "para-quem",
+        "fields": {
+          "eyebrow": "Público",
+          "items": [
+            {
+              "text": "Para quem deseja oferecer projetos visuais mais completos.",
+              "title": "Papelarias personalizadas"
+            },
+            {
+              "text": "Para quem quer organizar e agilizar etapas da criação.",
+              "title": "Designers"
+            },
+            {
+              "text": "Para quem deseja ampliar as possibilidades de personalização.",
+              "title": "Confeiteiras e profissionais de festas"
+            },
+            {
+              "text": "Para quem precisa de uma direção para desenvolver seus primeiros projetos.",
+              "title": "Quem está começando"
+            }
+          ],
+          "title": "Para quem é o Sant'Arte?"
+        },
+        "id": "sec_audience_633d68",
+        "images": [],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Para quem é",
+        "type": "audience",
+        "visible": true
+      },
+      {
+        "anchor": "comparativo",
+        "fields": {
+          "bad": [
+            "Criar comandos do zero.",
+            "Perder tempo testando instruções.",
+            "Criar elementos isolados.",
+            "Ficar sem ideias para um tema.",
+            "Ter dificuldade com algumas imagens.",
+            "Oferecer poucas possibilidades."
+          ],
+          "badTitle": "Sem uma estrutura",
+          "cta": "Quero adquirir o Sant'Arte",
+          "eyebrow": "Comparativo",
+          "good": [
+            "Comandos prontos para copiar e colar.",
+            "Orientação para conduzir a IA.",
+            "Desenvolver uma cartela completa.",
+            "Consultar o Consultor Criativo.",
+            "Contar com comandos específicos para essas situações.",
+            "Explorar novos projetos e serviços."
+          ],
+          "goodTitle": "Com o Sant'Arte",
+          "title": "O que muda na sua rotina de criação?"
+        },
+        "id": "sec_compare_31348a",
+        "images": [],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Comparativo",
+        "type": "compare",
+        "visible": true
+      },
+      {
+        "anchor": "oferta",
+        "fields": {
+          "brand": "SANT'ARTE",
+          "checkoutUrl": "",
+          "ctaAcquire": "Quero adquirir o Sant'Arte",
+          "ctaCartelas": "Ver as cartelas",
+          "ctaCreate": "Quero criar com o Sant'Arte",
+          "ctaHow": "Ver como funciona",
+          "eyebrow": "Oferta",
+          "includes": [
+            "Planejador Sant'Arte no Notion.",
+            "Consultor Criativo.",
+            "Biblioteca de comandos para identidades visuais.",
+            "Comandos para criação de imagens.",
+            "Orientação sobre licenças e uso comercial."
+          ],
+          "includesLabel": "Sua aquisição inclui:",
+          "price": "67,00",
+          "priceLabel": "Seu investimento",
+          "tagline": "O encanto de imaginar. A facilidade de criar.",
+          "title": "Comece a criar com o Sant'Arte"
+        },
+        "id": "sec_offer_cba5af",
+        "images": [],
+        "nav": "Oferta",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Oferta e preço",
+        "type": "offer",
+        "visible": true
+      },
+      {
+        "anchor": "duvidas",
+        "fields": {
+          "eyebrow": "FAQ",
+          "items": [
+            {
+              "a": "Não. O Sant'Arte também pode ser utilizado por quem está começando e deseja desenvolver suas habilidades de criação.",
+              "q": "Preciso ser designer profissional?"
+            },
+            {
+              "a": "Você precisará utilizar uma ferramenta de IA compatível para executar os comandos. O Sant'Arte oferece a estrutura para orientar esse processo.",
+              "q": "Preciso saber usar inteligência artificial?"
+            },
+            {
+              "a": "Não. Os comandos orientam a geração das imagens, mas você participa da escolha das referências, da direção visual e dos ajustes.",
+              "q": "O Sant'Arte cria tudo sozinho?"
+            },
+            {
+              "a": "Sim. Você pode utilizar os recursos como apoio na criação dos seus projetos e serviços.",
+              "q": "Posso usar os comandos para atender clientes?"
+            },
+            {
+              "a": "Sim. A identidade pode ser aplicada em convites, papelaria, embalagens, personalizados e diversos outros produtos.",
+              "q": "Posso criar outros produtos depois da identidade visual?"
+            }
+          ],
+          "title": "Dúvidas frequentes"
+        },
+        "id": "sec_faq_581686",
+        "images": [],
+        "nav": "Dúvidas",
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Perguntas frequentes",
+        "type": "faq",
+        "visible": true
+      },
+      {
+        "anchor": "chamada-final",
+        "fields": {
+          "brand": "SANT'ARTE",
+          "cta": "Quero criar com o Sant'Arte",
+          "eyebrow": "Comece agora",
+          "lede": "Comandos prontos, ideias e ferramentas para desenvolver cartelas de identidade visual com mais rapidez, direção e praticidade.",
+          "tagline": "O encanto de imaginar. A facilidade de criar.",
+          "title": "Sua próxima criação começa aqui."
+        },
+        "id": "sec_final_236b3c",
+        "images": [
+          {
+            "alt": "",
+            "caption": "",
+            "id": "64d2041e",
+            "src": "assets/img/crest.jpg"
+          },
+          {
+            "alt": "",
+            "caption": "",
+            "id": "9cda5688",
+            "src": "assets/img/monogram.jpg"
+          },
+          {
+            "alt": "",
+            "caption": "",
+            "id": "5c3ab231",
+            "src": "assets/img/palette.jpg"
+          },
+          {
+            "alt": "",
+            "caption": "",
+            "id": "553b0dc1",
+            "src": "assets/img/patterns.jpg"
+          },
+          {
+            "alt": "",
+            "caption": "",
+            "id": "b466005b",
+            "src": "assets/img/party.jpg"
+          },
+          {
+            "alt": "Logo",
+            "caption": "",
+            "id": "4e755808",
+            "src": "assets/img/uploads/4ff19640-a8f3-4cb0-a7c3-9230d4127465/logo.png?v=0c87082f"
+          }
+        ],
+        "nav": null,
+        "style": {
+          "align": "",
+          "theme": ""
+        },
+        "title": "Chamada final",
+        "type": "final",
+        "visible": true
+      }
+    ],
+    "version": 1
+  },
+  "media": [
+    {
+      "id": "9a0bc073-7",
+      "src": "assets/img/banner.jpg",
+      "name": "banner.jpg"
+    },
+    {
+      "id": "2147df21-6",
+      "src": "assets/img/board.jpg",
+      "name": "board.jpg"
+    },
+    {
+      "id": "3862f3ad-9",
+      "src": "assets/img/characters.jpg",
+      "name": "characters.jpg"
+    },
+    {
+      "id": "d201264f-0",
+      "src": "assets/img/cookies.jpg",
+      "name": "cookies.jpg"
+    },
+    {
+      "id": "362a3b55-c",
+      "src": "assets/img/crest.jpg",
+      "name": "crest.jpg"
+    },
+    {
+      "id": "e9404803-a",
+      "src": "assets/img/uploads/4ff19640-a8f3-4cb0-a7c3-9230d4127465/logo.png?v=0c87082f",
+      "name": "logo.png"
+    },
+    {
+      "id": "0e68f93c-0",
+      "src": "assets/img/monogram.jpg",
+      "name": "monogram.jpg"
+    },
+    {
+      "id": "cf34f4a7-3",
+      "src": "assets/img/palette.jpg",
+      "name": "palette.jpg"
+    },
+    {
+      "id": "7a3824a0-7",
+      "src": "assets/img/party.jpg",
+      "name": "party.jpg"
+    },
+    {
+      "id": "f8b5b00b-7",
+      "src": "assets/img/patterns.jpg",
+      "name": "patterns.jpg"
+    },
+    {
+      "id": "f6780686-0",
+      "src": "assets/img/stationery.jpg",
+      "name": "stationery.jpg"
+    }
+  ]
+}
